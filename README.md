@@ -4,7 +4,8 @@ A couple of recepies for the Borsch
 
 - Classical 
 - Experimental 
+- My own combination 
 
 1. Create html page
-Write some code
-Validate this code 
+2. Write some code
+3. Validate this code 
