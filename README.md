@@ -1,4 +1,4 @@
-# Recipes about Borsch 
+# Recipes of Ukrainian Cuisine 
 
 A couple of recepies for the Borsch 
 
