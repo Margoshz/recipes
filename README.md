@@ -1,10 +1,10 @@
-# Recipes about Borsch 
+# Recipes of Ukrainian Cuisine
 
-A couple of recepies for the Borsch 
+Dishes:
 
-- Classical 
-- Experimental 
-- My own combination 
+- Borscht
+- Pampushki with garlic
+- Cutlet Kiev
 
 1. Create html page
 2. Write some code
